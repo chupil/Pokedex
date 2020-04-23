@@ -13,13 +13,25 @@ background: rgb(159,131,173);
   background: rgb(243,170,167);
 }
 
-.water{
-
+.bug{
+  background: rgb(9, 116, 23);
 }
 
+.Fairy{
+  background: rgb(214, 12, 96);
+}
 
-
-
+.water{
+  background: rgb(34, 38, 236);
+}
 .electric{
 background: rgb(255,225,134);
+}
+
+.ground{
+  background: rgba(71, 55, 5, 0.637);
+}
+
+.normal{
+  background: rgba(51, 51, 50, 0.637);
 }
